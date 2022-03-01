@@ -1,5 +1,4 @@
 ### Classification web app (Streamlit)
-from cv2 import add
 import numpy as np
 import pandas as pd
 import streamlit as st
