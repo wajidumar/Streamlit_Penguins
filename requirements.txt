@@ -4,5 +4,5 @@ base58
 matplotlib
 numpy
 tensorflow
-scikit-lear
+scikit-learn
 plotly
